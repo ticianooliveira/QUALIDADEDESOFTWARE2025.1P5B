@@ -1,0 +1,15 @@
+{
+  "name": "qualidadedesoftware2025.1p5b",
+  "version": "1.0.0",
+  "description": "QUALIDADE DE SOFTWARE 2025.1 P5B",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ticiano",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.3.3"
+  }
+}
